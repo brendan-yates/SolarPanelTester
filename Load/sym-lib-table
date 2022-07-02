@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "MAX5705BAUB_")(type "KiCad")(uri "${KIPRJMOD}/MAX5705BAUB_/MAX5705BAUB_.kicad_sym")(options "")(descr ""))
+  (lib (name "ATTINY826-SF")(type "KiCad")(uri "${KIPRJMOD}/ATTINY826-SF/ATTINY826-SF.kicad_sym")(options "")(descr ""))
+  (lib (name "AMD_Wraith_Spire")(type "KiCad")(uri "${KIPRJMOD}/AMD_Wraith_Spire/AMD_Wraith_Spire.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "MAX5705BAUB_")(type "KiCad")(uri "${KIPRJMOD}/MAX5705BAUB_")(options "")(descr ""))
+  (lib (name "ATTINY826-SF")(type "KiCad")(uri "${KIPRJMOD}/ATTINY826-SF")(options "")(descr ""))
+  (lib (name "AMD_Wraith_Spire")(type "KiCad")(uri "${KIPRJMOD}/AMD_Wraith_Spire/AMD_Wraith_Spire.pretty")(options "")(descr ""))
+)
